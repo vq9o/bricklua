@@ -1,0 +1,2 @@
+# Disclaimer
+I the contributor (vq9o) also known as ArkInfinity, I am **NOT** a VSCode developer, there could be several mistakes in this, on majority side it should work. This plugin is to assit our software engineers creating software outside of BrickStudio.
